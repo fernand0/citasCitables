@@ -12,7 +12,7 @@ TIMEZONE = 'Europe/Madrid'
 DEFAULT_LANG = 'es'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = feed
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
