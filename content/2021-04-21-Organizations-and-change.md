@@ -4,7 +4,7 @@ Category: cita
 
 > Organizations can't stop the world from changing. The best they can do is adapt. The smart ones change before they have to. The lucky ones manage to scramble and adjust when push     comes to shove. The rest are losers, and they become history.
 
-In:  Price Pritchett. New Work Habits For A Radically Changing World
+In:  Price Pritchett. New Work Habits For A Radically Changing World: 13 Ground Rules for Job Success in the Information Age.
 
 
 
