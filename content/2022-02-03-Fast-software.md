@@ -5,7 +5,7 @@ Category: cita
 
 > If you want to write fast software, use a slow computer
 
-Dominic Tarr (in [if you want to write fast software, use a slow computer](https://twitter.com/Spoygg/status/892334574541340672)
+Dominic Tarr (in [if you want to write fast software, use a slow computer](https://twitter.com/Spoygg/status/892334574541340672))
 
 
 
