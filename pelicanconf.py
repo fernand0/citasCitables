@@ -3,7 +3,7 @@
 
 AUTHOR = 'Fernando Tricas García'
 SITENAME = 'Citas Citables'
-SITEURL = 'https://citascitables.elmundoesimperfecto.com/'
+SITEURL = 'https://citascitables.elmundoesimperfecto.com'
 
 PATH = 'content'
 
