@@ -3,7 +3,7 @@
 
 AUTHOR = 'Fernando Tricas García'
 SITENAME = 'Citas Citables'
-SITEURL = ''
+SITEURL = 'https://citascitables.elmundoesimperfecto.com'
 
 PATH = 'content'
 
@@ -22,7 +22,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+         ('El Mundo es Imperfecto', 'https://elmundoesimperfecto.com/')
+         )
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/fernand0'),
